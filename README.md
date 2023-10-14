@@ -1,8 +1,7 @@
-# Portfolio
+# Test Automation Portfolio Portfolio
 
-  ---
-  Test Automation Portfolio
-  ---
+
+
 # About Me
 
 Hi, I'm Kingsley Udoh, I am a passionate Software Quality Assurance Engineer with deep interest in Java technology.
@@ -34,7 +33,7 @@ needed to deliver top-notch agile/BDD test automation.
 These projects illustrate my learning journey in the Test Automation world. 
 Each one is designed as a stand-alone tutorial so that others can learn from my experience.
 
-## [String Calculator](https://github.com/kingsedem/portfolio-string-calculator)
+## [String Calculator](https://github.com/kingsedem/portfolio-string-calculator#string-calculator-kata)
 
 The string calculator is a simple Java coding exercise that introduced me to the concepts and practice 
 of TDD and the red-green-refactor cycles. The goal of the kata is to create a function simple mathematical expressions
