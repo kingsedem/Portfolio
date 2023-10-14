@@ -1,12 +1,12 @@
 # Portfolio
 
   ---
-  title: Test Automation Portfolio
+  Test Automation Portfolio
   ---
 # About Me
 
 Hi, I'm Kingsley Udoh, I am a passionate Software Quality Assurance Engineer with deep interest in Java technology.
-I love turning ideas into reality and continually improving my skills. With over 5 years of experience in manual Software testing, transitioning to Test Automation has been one of my major career goals 
+I love turning ideas into reality and continually improving on my skills. With over 5 years of experience in manual Software testing, transitioning to Test Automation has been one of my major career goals 
 and I am excited to show my learning journey with John Ferguson Smart Serenity Dojo Training on the tools and techniques
 needed to deliver top-notch agile/BDD test automation.
 
