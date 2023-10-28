@@ -39,3 +39,10 @@ The string calculator is a simple Java coding exercise that introduced me to the
 of TDD and the red-green-refactor cycles. The goal of the kata is to create a function simple mathematical expressions
 into numerical results. Some of the techniques I learned doing this exercise included String manipulation, Lambda expressions
 and streams, and String formatting in Java.
+
+## [The Java Fruit shop calculator](https://github.com/kingsedem/The-Java-fruit-shop#fruit-shop-cart-calculator-kata)
+
+In this kata, I was introduced to the concepts and practice of  TDD, using JUnit 5 @BeforeEach annotations, Map 
+and the red-green-refactor cycles. The goal of the kata is to create a function that checks the prices of items 
+in a catalog and updates it with the current market price. It also performs other functions
+such as (displaying products in alphabetical order, adds the total item and throws appropriate exceptions where applicable).
