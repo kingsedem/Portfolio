@@ -5,15 +5,15 @@
 # About Me
 
 Hi, I'm Kingsley Udoh, I am a passionate Software Quality Assurance Engineer with deep interest in Java technology.
-I love turning ideas into reality and continually improving on my skills. With over 5 years of experience in manual Software testing, transitioning to Test Automation has been one of my major career goals 
-and I am excited to show my learning journey with John Ferguson Smart Serenity Dojo Training on the tools and techniques
-needed to deliver top-notch agile/BDD test automation.
+I love turning ideas into reality and continually improving on my skills. With over 5 years of experience in Functional Software testing, transitioning to Test Automation has been one of my major career goals, 
+and I am excited to show my learning journey with  **[Serenity Dojo Expansion Training](https://www.serenity-dojo.com/program-overview)** facilitated by John Ferguson Smart, on the tools and techniques
+needed to deliver top-notch Agile/BDD Test automation.
 
 
 # Skills
 - **Programming Language:** Java
 - **Agile Development:** Experienced with BDD, TDD and Scrum
-- **DevOps:** Git
+- **DevOps:** Git, GitHub
 
 
 # Tools
@@ -22,16 +22,19 @@ needed to deliver top-notch agile/BDD test automation.
 - **[GitHub](https://github.com/kingsedem)** - A provider of Internet hosting for software development and version control using Git
 - **[JIRA](https://www.atlassian.com/software/jira)** -  Issue tracking and project management tool
 - **[POSTMAN](https://www.postman.com/)** - Testing tool for REST API
-- 
+
 
 
 # Certifications
 -**[ISTQB-Foundation level](https://zertdb.isqi.org/en/download/index/token/_e-7K1dN5yt81iN7_Nqg)** 
 
 
-# Sample Projects
+# Sample Projects 
+
 These projects illustrate my learning journey in the Test Automation world. 
 Each one is designed as a stand-alone tutorial so that others can learn from my experience.
+
+# JAVA FOR TESTERS
 
 ## [String Calculator](https://github.com/kingsedem/portfolio-string-calculator#string-calculator-kata)
 
@@ -42,7 +45,12 @@ and streams, and String formatting in Java.
 
 ## [The Java Fruit shop calculator](https://github.com/kingsedem/The-Java-fruit-shop#fruit-shop-cart-calculator-kata)
 
-In this kata, I was introduced to the concepts and practice of  TDD, using JUnit 5 @BeforeEach annotations, Map 
+The Java fruit shop kata introduced  me to the concepts and practice of  TDD, using JUnit 5 @BeforeEach annotations, Map 
 and the red-green-refactor cycles. The goal of the kata is to create a function that checks the prices of items 
 in a catalog and updates it with the current market price. It also performs other functions
 such as (displaying products in alphabetical order, adds the total item and throws appropriate exceptions where applicable).
+
+## [The Speaking clock Kata](https://github.com/kingsedem/the-speaking-clock#speaking-clock-kata)
+
+The goal of this code kata is to design a Conversational Clock a cluster of objects, capable of telling the current 
+system time in a conversational format. It introduced me to the use of LocalTime (an immutable date-time object that represents a time).
