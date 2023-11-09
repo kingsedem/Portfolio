@@ -1,6 +1,3 @@
-# Test Automation Portfolio
-
-
 
 # About Me
 
@@ -52,5 +49,5 @@ such as (displaying products in alphabetical order, adds the total item and thro
 
 ## [The Speaking clock Kata](https://github.com/kingsedem/the-speaking-clock#speaking-clock-kata)
 
-The goal of this code kata is to design a Conversational Clock a cluster of objects, capable of telling the current 
+The goal of this code kata is to design a Conversational Clock with clusters of objects, capable of telling the current 
 system time in a conversational format. It introduced me to the use of LocalTime (an immutable date-time object that represents a time).
