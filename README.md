@@ -51,3 +51,14 @@ such as (displaying products in alphabetical order, adds the total item and thro
 
 The goal of this code kata is to design a Conversational Clock with clusters of objects, capable of telling the current 
 system time in a conversational format. It introduced me to the use of LocalTime (an immutable date-time object that represents a time).
+
+# CODING TECHNIQUES (Essential Patterns for Sustainable Test Automation)
+
+## The Builder Pattern:  
+Due to the limitations of the use of default and parameterized constructors,the builder pattern is an easy way to make our codes more expressive and readable.
+
+## [Vet Clinic Kata](https://github.com/kingsedem/vet-clinic#essential-patterns-for-sustainable-test-automation-using-builder-patterns)
+
+The Vet clinic kata is a simple Java coding exercise which introduced me to the concepts and practice of
+builder patterns in test automation. I used concepts such as interface, constructors, and 
+creating optional and mandatory fields in each test classes to complete each test.
